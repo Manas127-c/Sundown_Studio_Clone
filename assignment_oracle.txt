@@ -1,0 +1,8 @@
+Student :- sid,sname,m1,m2,m3;
+           1001,A   ,70,50,80;
+	   1002,B   ,90,30,60;
+
+calculate total marks and average marks of all students
+
+output :-
+ sname m1 m2 m3 total avrg
